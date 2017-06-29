@@ -1,2 +1,2 @@
-# php_table
+# PureTable
 PHP Table ORM
